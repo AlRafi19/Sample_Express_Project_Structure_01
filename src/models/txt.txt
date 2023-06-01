@@ -1,0 +1,4 @@
+
+We will work with mongoose for Mongo Db 
+In Models Folder->
+Read,write etc the schemas for the database
